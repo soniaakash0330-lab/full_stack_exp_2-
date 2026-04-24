@@ -1,8 +1,8 @@
 # Experiment 2 
 
 ## Personal Information
-Name: Jiya Rohilla  
-UID: 24BDA70219  
+Name: Aakash soni
+UID: 24BDA70202
 Group: 24BDS-2 B  
 
 ## Experiment 2.1 – Live Character Counter
